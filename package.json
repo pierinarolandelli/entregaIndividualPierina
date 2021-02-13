@@ -1,5 +1,5 @@
 {
-    "name": "entregaindividualpierina",
+    "name": "notas",
     "version": "1.0.0",
     "description": "app de notas",
     "main": "src/app.js",
