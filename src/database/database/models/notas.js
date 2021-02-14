@@ -19,8 +19,8 @@ module.exports = function (sequelize, dataTypes) {
 
     let config = {
         tableName: "notas",
-        timestamps: true, //create at update at
-        underscored: true, // estan escritos con guiones bajos created_at y updated_at
+        timestamps: true, 
+        underscored: true,
         paranoid:true
     }
 
